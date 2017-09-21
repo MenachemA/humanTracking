@@ -1,0 +1,67 @@
+﻿  stdafx.cpp
+F:\OpenCV\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\OpenCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\OpenCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  TWGMMF_2WGMMF_Beijing.cpp
+F:\OpenCV\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\OpenCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\OpenCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+F:\OpenCV\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+src\TWGMMF_2WGMMF_Beijing.cpp(562): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(1182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(1690): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(1743): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(1789): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(2312): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(2329): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(2555): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(2557): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(3790): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(3824): warning C4305: 'argument': truncation from 'double' to 'float'
+src\TWGMMF_2WGMMF_Beijing.cpp(3844): warning C4305: 'argument': truncation from 'double' to 'float'
+src\TWGMMF_2WGMMF_Beijing.cpp(3845): warning C4305: 'argument': truncation from 'double' to 'float'
+src\TWGMMF_2WGMMF_Beijing.cpp(3938): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4024): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4363): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4364): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4509): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4510): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4787): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4788): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(4790): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\TWGMMF_2WGMMF_Beijing.cpp(4797): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+src\TWGMMF_2WGMMF_Beijing.cpp(4798): warning C4838: conversion from 'int' to 'double' requires a narrowing conversion
+src\TWGMMF_2WGMMF_Beijing.cpp(5268): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(5753): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(5768): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6011): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6129): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6130): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6248): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6318): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6418): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6459): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6460): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6578): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6898): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6902): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6952): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(6956): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7041): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7505): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7535): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7565): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7595): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7704): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7739): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7773): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+src\TWGMMF_2WGMMF_Beijing.cpp(7807): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+d:\bupt\lab\tracking\mctipl_v1.0\src\twgmmf_2wgmmf_beijing.cpp(4659): warning C4715: 'generatehist': not all control paths return a value
+d:\bupt\lab\tracking\mctipl_v1.0\src\twgmmf_2wgmmf_beijing.cpp(2274): warning C4715: 'generateregionhist': not all control paths return a value
+d:\bupt\lab\tracking\mctipl_v1.0\src\twgmmf_2wgmmf_beijing.cpp(2539): warning C4715: 'minmax_vector': not all control paths return a value
+  All 1579 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MctIPL.vcxproj -> D:\BUPT\Lab\tracking\MctIPL_v1.0\x64\Release\MctIPL.exe
+  MctIPL.vcxproj -> D:\BUPT\Lab\tracking\MctIPL_v1.0\x64\Release\MctIPL.pdb (Full PDB)

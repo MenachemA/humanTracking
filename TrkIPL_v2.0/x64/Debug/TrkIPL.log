@@ -1,0 +1,391 @@
+﻿  CamCal.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(238): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(172): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(530): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(230): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(409): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(417): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(423): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(471): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(499): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(521): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(522): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(523): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(528): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(738): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(811): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(812): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(881): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(883): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(889): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(891): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(907): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(909): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(915): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(917): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(947): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1020): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1021): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1022): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1023): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1032): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1034): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1037): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1039): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1042): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1044): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1047): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1049): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1074): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1075): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1114): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1302): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1338): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1384): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1427): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1429): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1439): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1450): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1452): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1605): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1606): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1612): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(1613): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(94): note: see reference to function template instantiation 'T deg2rad<int>(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  RoiSel.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  ObjTrk.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(238): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(172): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(530): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(498): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(680): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(836): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(924): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(926): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(927): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(932): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(933): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1144): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1145): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1146): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1258): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1259): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1267): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1268): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1333): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1497): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1593): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1605): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1637): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1791): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1817): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1880): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(1964): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2326): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2396): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2409): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2420): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2427): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2429): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2454): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2461): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2463): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2486): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2488): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2515): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.cpp(2517): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ObjDet.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(238): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(170): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(447): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(462): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(478): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objdet.cpp(515): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(238): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(172): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\objtrk.h(530): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\main.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\main.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\main.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.h(94): note: see reference to function template instantiation 'T deg2rad<int>(T)' being compiled
+          with
+          [
+              T=int
+          ]
+  Cfg.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(141): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(148): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(152): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(156): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(160): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(164): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(172): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(176): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(180): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(184): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(188): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(192): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(196): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(200): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(204): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(208): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(212): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(216): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(220): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(224): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(228): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(232): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(236): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(240): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(244): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(248): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(252): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(256): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(260): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(264): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(268): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(272): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(276): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(280): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(284): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(288): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(292): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(296): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(300): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(304): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(308): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(312): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(316): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(320): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(364): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(368): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(372): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(376): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(380): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(384): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(388): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(392): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(396): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(400): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(404): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(408): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(412): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(416): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(420): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(424): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(428): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(432): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(436): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(440): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(444): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(448): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(452): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(456): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(460): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(464): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(468): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(476): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(480): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(484): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(488): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(492): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(496): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(509): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(510): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(519): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(520): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(521): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(531): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(532): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(533): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(536): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(543): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(544): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(545): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(560): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(561): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(565): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(576): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(577): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(579): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(580): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(590): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(591): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(595): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(596): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(598): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(599): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(587): warning C4101: 'nValLen': unreferenced local variable
+  ChgDet.cpp
+f:\opencv\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+f:\opencv\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(223): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(238): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\utils.h(276): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(120): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(122): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(124): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(126): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.h(128): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(51): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(89): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.h(131): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(69): warning C4309: '=': truncation of constant value
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(95): warning C4305: '=': truncation from 'float' to 'bool'
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(928): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(928): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(932): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(932): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1005): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1005): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1031): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1031): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1067): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\bupt\lab\tracking\trkipl_v2.0\src\chgdet.cpp(1068): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+d:\bupt\lab\tracking\trkipl_v2.0\src\cfg.cpp(553): warning C4715: 'CCfg::readBool': not all control paths return a value
+d:\bupt\lab\tracking\trkipl_v2.0\src\camcal.cpp(271): warning C4715: 'CCamCal::process': not all control paths return a value
+  TrkIPL.vcxproj -> D:\BUPT\Lab\tracking\TrkIPL_v2.0\x64\Debug\TrkIPL.exe
+  TrkIPL.vcxproj -> D:\BUPT\Lab\tracking\TrkIPL_v2.0\x64\Debug\TrkIPL.pdb (Partial PDB)

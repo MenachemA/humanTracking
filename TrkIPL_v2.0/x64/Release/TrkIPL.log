@@ -1,0 +1,12 @@
+﻿  ChgDet.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\ChgDet.cpp': No such file or directory
+  Cfg.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\Cfg.cpp': No such file or directory
+  ObjDet.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\ObjDet.cpp': No such file or directory
+  ObjTrk.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\ObjTrk.cpp': No such file or directory
+  RoiSel.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\RoiSel.cpp': No such file or directory
+  CamCal.cpp
+c1xx : fatal error C1083: Cannot open source file: 'src\CamCal.cpp': No such file or directory
